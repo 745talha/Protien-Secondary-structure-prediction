@@ -1,4 +1,6 @@
-In this Project I implement basic Chou-Fasman-algorithm in java along with UI. Protien sequences(downloaded from different internet sources) also uploaded for testing. the testing is done on the following protien sequences.
+Welcome to the **Chou-Fasman Protein Structure Predictor** – a captivating blend of cutting-edge science and elegant design!
+Unveil the mysteries of protein structures with our Java-powered application that implements the renowned Chou-Fasman algorithm. This predictive tool takes protein sequences, and forecasts secondary structure elements with remarkable accuracy.
+The testing has done on the following protien sequences.
 actin
 cadherin
 coronin
